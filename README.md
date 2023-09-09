@@ -195,7 +195,7 @@ Okay, so we've got our grilled cheese ingredients, but what about the steps
 required to make a grilled cheese? Steps to a recipe need to be in order,
 otherwise we may end up with burnt cheese covered in bread and topped with a
 square of butter. The steps to making a basic grilled cheese would be:
-`Spread butter on bread and frying pan`, `Place bread in frying pan and fry`,
+`Spread butter on bread and frying pan`, `Spread butter on bread and frying pan`,
 `Add cheese on top of bread`, `Cover with second slice of bread`,
 `Turn over and fry for 2 minutes`.
 
